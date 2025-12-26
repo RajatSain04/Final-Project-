@@ -1,0 +1,5 @@
+{
+  "name": "PWA Flash Sale Storefront",
+  "description": "A mobile-ready PWA storefront that supports Web Push notifications for flash sales and provides a clear home-screen install flow. It features offline capabilities and a settings panel for managing notification preferences.",
+  "requestFramePermissions": []
+}
